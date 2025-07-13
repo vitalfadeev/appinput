@@ -1,10 +1,22 @@
 import std.stdio : writeln,writefln;
-import what;
+import event     : Events;
 
 
 void
 main () {
-	foreach (what; Whats ())
-		writeln (what);
+	foreach (event; Events!AppEvent ())
+		writeln (event);
 }
 
+struct
+AppEvent {
+    Type type;
+
+    enum 
+    Type : ushort {
+        _                   = 0,     
+        APP                 = 2^^14,  // 16384
+        START               = APP + 1,
+        DRAW                = APP + 2,
+    }
+}
