@@ -1105,7 +1105,7 @@ lhs == rhs
             range.popFront();
         
 
-// expansion at source/event.d(114,5)
+// expansion at source/event.d(122,5)
 enum Type : ushort {
 NONE = InpEvent.Type.NONE,
 DEVICE_ADDED = InpEvent.Type.DEVICE_ADDED,

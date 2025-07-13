@@ -8,12 +8,12 @@ auto
 Events (AppEvent) () {
     alias AppInput = _AppInput!AppEvent;
     alias Event    = _Event!(InpEvent,AppEvent);
-    // APP_START
-    //appinput ~= AppEvent (AppEvent.Type.START);
-    return _Events!(LibInput,AppInput,Event) (LibInput (null), AppInput ());
+    return 
+        _Events!(LibInput,AppInput,Event,InpEvent,AppEvent) 
+            (LibInput (null), AppInput ());
 }
 struct
-_Events (LibInput,AppInput,Event) {
+_Events (LibInput,AppInput,Event,InpEvent,AppEvent) {
     // 2 source
     //  - app       -> ...
     //  - libinput  -> InpEvent
@@ -66,12 +66,20 @@ _Events (LibInput,AppInput,Event) {
     }
 
     void
-    opOpAssign (string op : "~", Event) (Event what) {
-        if (what.is_app)
-            appinput ~= what._app;
+    opOpAssign (string op : "~") (InpEvent event) {
+        libinput ~= event;
+    }
+    void
+    opOpAssign (string op : "~") (AppEvent event) {
+        appinput ~= event;
+    }
+    void
+    opOpAssign (string op : "~") (Event event) {
+        if (event.is_app)
+            appinput ~= event._app;
         else
-        if (what.is_input)
-            libinput ~= what._input;
+        if (event.is_input)
+            libinput ~= event._input;
     }
 }
 

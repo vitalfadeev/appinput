@@ -4,7 +4,11 @@ import event     : Events;
 
 void
 main () {
-	foreach (event; Events!AppEvent ())
+    auto events = Events!AppEvent ();
+    // APP_START
+    events ~= AppEvent (AppEvent.Type.START);
+
+	foreach (event; events)
 		writeln (event);
 }
 
