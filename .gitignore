@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/appinput
+appinput.so
+appinput.dylib
+appinput.dll
+appinput.a
+appinput.lib
+appinput-test-*
+*.exe
+*.o
+*.obj
+*.lst
