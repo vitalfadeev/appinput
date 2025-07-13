@@ -99,13 +99,15 @@ _Event (InpEvent,AppEvent) {
 
     this (AppEvent event) {
         import std.conv : to;
-        this.type = event.type.to!(ushort).to!(Type);
+        import std.traits : OriginalType,CommonType;
+        this.type = event.type.to!(OriginalType!Type).to!(Type);
         this._app = event;
     }
 
     this (InpEvent event) {
         import std.conv : to;
-        this.type   = event.type.to!(ushort).to!(Type);
+        import std.traits : OriginalType,CommonType;
+        this.type   = event.type.to!(OriginalType!Type).to!(Type);
         this._input = event;
     }
 
@@ -113,12 +115,12 @@ _Event (InpEvent,AppEvent) {
 
     bool
     is_app () {
-        return (type >= Type.APP);
+        return (type > InpEvent.Type.max);
     }
 
     bool
     is_input () {
-        return (type > Type.NONE) && (type < Type.APP);
+        return (type <= InpEvent.Type.max) && (type != 0);
     }
 
     string
