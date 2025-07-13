@@ -13,3 +13,4 @@ appinput-test-*
 *.o
 *.obj
 *.lst
+mixins.d
