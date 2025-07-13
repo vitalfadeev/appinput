@@ -8,7 +8,7 @@ main () {
     // APP_START
     events ~= AppEvent (AppEvent.Type.START);
 
-	foreach (event; events)
+	foreach (ref event; events)
 		writeln (event);
 }
 
