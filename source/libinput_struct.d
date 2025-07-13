@@ -261,6 +261,7 @@ InpEvent {
         POINTER_MOTION_ABSOLUTE = libinput_event_type.LIBINPUT_EVENT_POINTER_MOTION_ABSOLUTE,
         POINTER_BUTTON          = libinput_event_type.LIBINPUT_EVENT_POINTER_BUTTON,
         POINTER_AXIS            = libinput_event_type.LIBINPUT_EVENT_POINTER_AXIS,
+        POINTER_AXIS_           = 404,
         TOUCH_DOWN              = libinput_event_type.LIBINPUT_EVENT_TOUCH_DOWN,
         TOUCH_UP                = libinput_event_type.LIBINPUT_EVENT_TOUCH_UP,
         TOUCH_MOTION            = libinput_event_type.LIBINPUT_EVENT_TOUCH_MOTION,

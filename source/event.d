@@ -109,7 +109,7 @@ _Event (InpEvent,AppEvent) {
         this._input = event;
     }
 
-    mixin (clone_enum_mix!(InpEvent,AppEvent,"Type"));
+    mixin (clone_enum_mix!(InpEvent,AppEvent,"Type"));  // Type
 
     bool
     is_app () {
