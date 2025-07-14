@@ -1,724 +1,724 @@
 // expansion at /usr/lib/ldc/x86_64-linux-gnu/include/d/std/format/internal/write.d(1993,40)
 (in ref int a) => a
 
-// expansion at source/libinput_d.d(4014,17)
+// expansion at deps/libinput_d/source/libinput_d.d(4016,17)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4015,24)
+// expansion at deps/libinput_d/source/libinput_d.d(4017,24)
 libinput_d
 
-// expansion at source/libinput_d.d(4021,1)
+// expansion at deps/libinput_d/source/libinput_d.d(4023,1)
 
 mixin (makeExpandedEnum!libinput_log_priority);
 mixin (makeExpandedEnum!libinput_device_capability);
@@ -1105,7 +1105,7 @@ lhs == rhs
             range.popFront();
         
 
-// expansion at source/event.d(122,5)
+// expansion at source/appinput.d(129,5)
 enum Type : ushort {
 NONE = InpEvent.Type.NONE,
 DEVICE_ADDED = InpEvent.Type.DEVICE_ADDED,

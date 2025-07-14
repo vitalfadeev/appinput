@@ -3,11 +3,12 @@ import libinput_struct : LibInput,InpEvent;
 //import libinput_struct;
 //import app;
 
+alias __Event (AppEvent) = _Event!(InpEvent,AppEvent);
 
 auto
 Events (AppEvent) () {
     alias AppInput = _AppInput!AppEvent;
-    alias Event    = _Event!(InpEvent,AppEvent);
+    alias Event    = __Event!AppEvent;
     return 
         _Events!(LibInput,AppInput,Event,InpEvent,AppEvent) 
             (LibInput (null), AppInput ());
@@ -119,6 +120,12 @@ _Event (InpEvent,AppEvent) {
         this._input = event;
     }
 
+    bool
+    opCast (T) () if (is (T == bool)) {
+        return (type != 0);
+    }
+
+    // Type
     mixin (clone_enum_mix!(InpEvent,AppEvent,"Type"));  // Type
 
     bool

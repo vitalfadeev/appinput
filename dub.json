@@ -4,6 +4,8 @@
 	"copyright"   : "Copyright © 2025, vf",
 	"description" : "A minimal D application.",
 	"license"     : "proprietary",
-	"libs-posix"  : ["libinput","libudev"],
 	"dflags"      : ["-preview=dip1000","-mixin=mixins.d" ],
+			"dependencies": {
+				"libinput_d" : {"path":"deps/libinput_d"},
+			},			
 }

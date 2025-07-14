@@ -1,5 +1,5 @@
 import std.stdio : writeln,writefln;
-import event     : Events;
+import appinput  : Events;
 
 
 void
