@@ -76,8 +76,6 @@ _Events (LibInput,AppInput,Event,InpEvent,AppEvent) {
     }
     void
     opOpAssign (string op : "~") (Event event) {
-        import std.stdio : writeln;
-        writeln (":",event);
         if (event.is_app)
             appinput ~= event._app;
         else
