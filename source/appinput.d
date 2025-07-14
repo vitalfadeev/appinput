@@ -76,6 +76,8 @@ _Events (LibInput,AppInput,Event,InpEvent,AppEvent) {
     }
     void
     opOpAssign (string op : "~") (Event event) {
+        import std.stdio : writeln;
+        writeln (":",event);
         if (event.is_app)
             appinput ~= event._app;
         else
@@ -104,6 +106,18 @@ _Event (InpEvent,AppEvent) {
 
     this (Type type) {
         this.type = type;
+        if (is_app) {
+            import std.conv : to;
+            import std.traits : OriginalType,CommonType;
+            this._app = AppEvent (type.to!(OriginalType!Type).to!(AppEvent.Type));
+        }
+    }
+
+    this (AppEvent.Type type) {
+        import std.conv : to;
+        import std.traits : OriginalType,CommonType;
+        this.type = type.to!(OriginalType!Type).to!(Type);
+        this._app = AppEvent (type);
     }
 
     this (AppEvent event) {
